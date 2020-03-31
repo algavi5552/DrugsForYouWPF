@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DrugsForYouWPF\bin\Debug\DrugsForYouWPF.exe.config
+C:\Users\Admin\source\repos\DrugsForYouWPF\bin\Debug\DrugsForYouWPF.exe
+C:\Users\Admin\source\repos\DrugsForYouWPF\bin\Debug\DrugsForYouWPF.pdb
+C:\Users\Admin\source\repos\DrugsForYouWPF\obj\Debug\DrugsForYouWPF.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DrugsForYouWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\DrugsForYouWPF\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\DrugsForYouWPF\obj\Debug\DrugsForYouWPF_MarkupCompile.cache
+C:\Users\Admin\source\repos\DrugsForYouWPF\obj\Debug\DrugsForYouWPF_MarkupCompile.lref
+C:\Users\Admin\source\repos\DrugsForYouWPF\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\DrugsForYouWPF\obj\Debug\DrugsForYouWPF.g.resources
+C:\Users\Admin\source\repos\DrugsForYouWPF\obj\Debug\DrugsForYouWPF.Properties.Resources.resources
+C:\Users\Admin\source\repos\DrugsForYouWPF\obj\Debug\DrugsForYouWPF.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DrugsForYouWPF\obj\Debug\DrugsForYouWPF.exe
+C:\Users\Admin\source\repos\DrugsForYouWPF\obj\Debug\DrugsForYouWPF.pdb

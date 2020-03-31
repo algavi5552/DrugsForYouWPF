@@ -1,0 +1,21 @@
+﻿<Window x:Class="DrugsForYouWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrugsForYouWPF"
+        mc:Ignorable="d"
+        Title="Drugs4You" Height="692" Width="850">
+
+
+
+    <Grid>
+        <StackPanel Margin="0,0,0,51">
+            <TextBlock Margin="50, 20, 50, 0" HorizontalAlignment="Center" VerticalAlignment="bottom" Text="Введите дату первого приема" Height="40"></TextBlock>
+            <DatePicker Name="datePckr" Grid.Column="1" Grid.Row="0"></DatePicker>
+            <Button Margin="300, 20, 300, 20"  Content="Рассчитать" Click="Button_Click" Height="29"/>
+            <!--<TextBox Grid.Column="1" Grid.Row="1"></TextBox>-->
+            <Image Margin="50, 0, 50, 50" Source="Resources/pills.jpg"  VerticalAlignment="Center" HorizontalAlignment="Center" Height="462"/>
+        </StackPanel>
+    </Grid>
+</Window>
